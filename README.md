@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
+| [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
