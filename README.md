@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/phaneena/leetcode/tree/master/0541-reverse-string-ii) |
 | [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
