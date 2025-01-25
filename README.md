@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
 | [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/phaneena/leetcode/tree/master/0541-reverse-string-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
