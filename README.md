@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/phaneena/leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/phaneena/leetcode/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/phaneena/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/phaneena/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
