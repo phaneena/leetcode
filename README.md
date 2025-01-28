@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/phaneena/leetcode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/phaneena/leetcode/tree/master/0263-ugly-number) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/phaneena/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/phaneena/leetcode/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
