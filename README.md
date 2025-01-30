@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/phaneena/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/phaneena/leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/phaneena/leetcode/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/phaneena/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/phaneena/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
