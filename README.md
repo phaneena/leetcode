@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/phaneena/leetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/phaneena/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/phaneena/leetcode/tree/master/0504-base-7) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/phaneena/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
