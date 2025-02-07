@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
+| [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
 | [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
+| [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/phaneena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
