@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/phaneena/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/phaneena/leetcode/tree/master/2048-build-array-from-permutation) |
