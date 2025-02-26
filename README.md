@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/phaneena/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1044-find-common-characters](https://github.com/phaneena/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/phaneena/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/phaneena/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
