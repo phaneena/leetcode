@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/phaneena/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/phaneena/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/phaneena/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/phaneena/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/phaneena/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/phaneena/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/phaneena/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
