@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/phaneena/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0941-sort-array-by-parity](https://github.com/phaneena/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/phaneena/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/phaneena/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
+| [0941-sort-array-by-parity](https://github.com/phaneena/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/phaneena/leetcode/tree/master/0541-reverse-string-ii) |
+| [0941-sort-array-by-parity](https://github.com/phaneena/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
