@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/phaneena/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/phaneena/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3778-transform-array-by-parity](https://github.com/phaneena/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
 | [0941-sort-array-by-parity](https://github.com/phaneena/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/phaneena/leetcode/tree/master/1137-height-checker) |
+| [3778-transform-array-by-parity](https://github.com/phaneena/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/phaneena/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/phaneena/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3778-transform-array-by-parity](https://github.com/phaneena/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
