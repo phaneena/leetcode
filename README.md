@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/phaneena/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3412-permutation-difference-between-two-strings](https://github.com/phaneena/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/phaneena/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/phaneena/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3412-permutation-difference-between-two-strings](https://github.com/phaneena/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
