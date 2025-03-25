@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/phaneena/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/phaneena/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/phaneena/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/phaneena/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/phaneena/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/phaneena/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/phaneena/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/phaneena/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/phaneena/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/phaneena/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/phaneena/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/phaneena/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/phaneena/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/phaneena/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
