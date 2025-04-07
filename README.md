@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/phaneena/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/phaneena/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/phaneena/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/phaneena/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/phaneena/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/phaneena/leetcode/tree/master/1044-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/phaneena/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/phaneena/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/phaneena/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/phaneena/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/phaneena/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0941-sort-array-by-parity](https://github.com/phaneena/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/phaneena/leetcode/tree/master/0948-sort-an-array) |
