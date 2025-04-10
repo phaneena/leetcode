@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/phaneena/leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/phaneena/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/phaneena/leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/phaneena/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/phaneena/leetcode/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/phaneena/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/phaneena/leetcode/tree/master/0948-sort-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/phaneena/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/phaneena/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
