@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/phaneena/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/phaneena/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/phaneena/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2812-find-the-maximum-achievable-number](https://github.com/phaneena/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/phaneena/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/phaneena/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/phaneena/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/phaneena/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2288-count-operations-to-obtain-zero](https://github.com/phaneena/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Number Theory
 |  |
 | ------- |
