@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/phaneena/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/phaneena/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/phaneena/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2083-three-divisors](https://github.com/phaneena/leetcode/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/phaneena/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/phaneena/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/phaneena/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/phaneena/leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/phaneena/leetcode/tree/master/2083-three-divisors) |
 ## Queue
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/phaneena/leetcode/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/phaneena/leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
